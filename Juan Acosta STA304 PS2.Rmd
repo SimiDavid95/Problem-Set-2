@@ -70,3 +70,7 @@ Link to the GitHub repo: https://github.com/SimiDavid95/Problem-Set-2
 
 ## References
 Alexander, R., & Caetano, S. (2020, October 7). [Gss_cleaning.R].
+
+GSS 2017 Data, CHASS. [Gss.csv]
+
+Packages: Brms, Tidyverse
